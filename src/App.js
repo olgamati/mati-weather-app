@@ -17,7 +17,7 @@ function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/olgamati/weather-react-app"
+            href="https://github.com/olgamati/mati-weather-app"
             target="_blank"
             rel="noreferrer"
           >
